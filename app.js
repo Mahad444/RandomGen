@@ -3,7 +3,7 @@ const app = Vue.createApp({
   data(){
     return {
         firstName : 'Wayab',
-        lastName : "Meow",
+        lastName : "mmoja",
         email : "mahad@exampleemail.com",
         gender : "male",
         picture : "https://randomuser.me/api/portraits/men/10.jpg"
